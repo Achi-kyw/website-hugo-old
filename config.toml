@@ -52,8 +52,7 @@ unsafe= true
     noClasses = false
     tabWidth = 4
 
-
 [[params.social]]
 name = "Contact me"
-icon = "github"
+icon = "resources/_gen/images/contact.svg"
 url = "https://linktr.ee/KuanYuWei"
