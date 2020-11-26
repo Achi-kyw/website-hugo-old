@@ -2,6 +2,8 @@ baseURL = "https://achikuan.github.io/"
 languageCode = "zh-tw"
 title = "kyw的隨筆"
 theme = "bodhi"
+googleAnalytics = "UA-123-45"
+# DisqusShortname = "achikuan" 我移到disqus.html裡面了不然會壞掉
 
 [params]
     subtitle = "一個廢物的資訊筆記"
@@ -9,7 +11,6 @@ theme = "bodhi"
     author = "AchiKuan"
     commentoSrc = "https://commento.example.com/js/commento.js"
     footerMessage = "我不知道路有多長，但是我知道我走了多少 Email: sereter19@gmail.com"
-    disqus = "AchiKuan"
     disableSearch = false
 
 [[menu.main]]
@@ -57,5 +58,3 @@ unsafe= true
 name = "Contact me"
 icon = "send"
 url = "https://linktr.ee/KuanYuWei"
-
-disqusShortname = "DisqusShortname"
