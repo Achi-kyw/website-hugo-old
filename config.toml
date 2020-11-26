@@ -55,5 +55,5 @@ unsafe= true
 
 [[params.social]]
 name = "Github"
-icon = "github"
+icon = "facebook"
 url = "https://github.com/rhnvrm/bodhi"
