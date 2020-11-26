@@ -1,40 +1,40 @@
 baseURL = "https://achikuan.github.io/"
 languageCode = "zh-tw"
-title = "title"
+title = "kyw的隨筆"
 theme = "bodhi"
 
 [params]
-    subtitle = "simple and minimal."
-    avatar = "/avatar.png"
-    author = "Rohan Verma"
+    subtitle = "一個廢物的資訊筆記"
+    avatar = "/KuanYuWei.jpg"
+    author = "AchiKuan"
     commentoSrc = "https://commento.example.com/js/commento.js"
-    footerMessage = "Keep it simple."
+    footerMessage = "我不知道路有多長，但是我知道我走了多少 Email: sereter19@gmail.com"
     disableSearch = false
 
 [[menu.main]]
-name = "home"
+name = "首頁"
 url = "/"
 weight = 1
 
 [[menu.main_right]]
-name = "about"
+name = "關於"
 url = "/about/"
 weight = 1
 
 [[menu.nav]]
-name = "blogs"
-url = "/blog"
+name = "文章"
+url = "/post"
 weight = 1
 
 [[menu.nav]]
-parent = "blogs"
-name = "tags"
+parent = "文章"
+name = "標籤"
 url = "/tags"
 weight = 2
 
 [[menu.nav]]
-parent = "blogs"
-name = "categories"
+parent = "文章"
+name = "分類"
 url = "/categories"
 weight = 3
 
@@ -52,7 +52,18 @@ unsafe= true
     noClasses = false
     tabWidth = 4
 
+
+[[params.social]]
+name = "Facebook"
+icon = "facebook"
+url = "https://www.facebook.com/KuanYuWei0831/"
+
+[[params.social]]
+name = "Instagram"
+icon = "Instagram"
+url = "https://www.instagram.com/ckeisc40th_kyw831/"
+
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/rhnvrm/bodhi"
+url = "https://github.com/AchiKuan"

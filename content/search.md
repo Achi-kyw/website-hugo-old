@@ -1,5 +1,5 @@
 ---
-title: "Search Results"
+title: "搜尋結果"
 sitemap:
   priority : 0.1
 layout: "search"
