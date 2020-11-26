@@ -10,7 +10,7 @@ theme = "bodhi"
     commentoSrc = "https://commento.example.com/js/commento.js"
     footerMessage = "我不知道路有多長，但是我知道我走了多少 Email: sereter19@gmail.com"
     disableSearch = false
-
+    disqus = "AchiKuan"
 [[menu.main]]
 name = "首頁"
 url = "/"
@@ -54,16 +54,6 @@ unsafe= true
 
 
 [[params.social]]
-name = "Facebook"
-icon = "facebook"
-url = "https://www.facebook.com/KuanYuWei0831/"
-
-[[params.social]]
-name = "Instagram"
-icon = "Instagram"
-url = "https://www.instagram.com/ckeisc40th_kyw831/"
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/AchiKuan"
+name = "Contact me"
+icon = "resources/_gen/images/contact.svg"
+url = "https://linktr.ee/KuanYuWei"
