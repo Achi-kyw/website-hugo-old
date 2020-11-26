@@ -55,5 +55,5 @@ unsafe= true
 
 [[params.social]]
 name = "Contact me"
-icon = "resources/_gen/images/contact.svg"
+icon = "github"
 url = "https://linktr.ee/KuanYuWei"
