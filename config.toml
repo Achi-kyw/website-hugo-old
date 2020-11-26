@@ -54,6 +54,8 @@ unsafe= true
     tabWidth = 4
 
 [[params.social]]
-name = "Github"
-icon = "facebook"
-url = "https://github.com/rhnvrm/bodhi"
+name = "Contact me"
+icon = "send"
+url = "https://linktr.ee/KuanYuWei"
+
+disqusShortname = "DisqusShortname"
