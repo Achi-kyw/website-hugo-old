@@ -2,7 +2,7 @@ baseURL = "https://achikuan.github.io/"
 languageCode = "zh-tw"
 title = "kyw的隨筆"
 theme = "bodhi"
-googleAnalytics = "UA-123-45"
+# googleAnalytics = "UA-123-45"
 # DisqusShortname = "achikuan" 我移到disqus.html裡面了不然會壞掉
 
 [params]
@@ -10,7 +10,7 @@ googleAnalytics = "UA-123-45"
     avatar = "/KuanYuWei.jpg"
     author = "AchiKuan"
     commentoSrc = "https://commento.example.com/js/commento.js"
-    footerMessage = "我不知道路有多長，但是我知道我走了多少 Email: sereter19@gmail.com"
+    footerMessage = "我不知道路有多長，但是我知道我走了多少 Email: sereter19@gmail.com tmp"
     disableSearch = false
 
 [[menu.main]]
