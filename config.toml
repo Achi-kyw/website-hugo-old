@@ -40,6 +40,12 @@ name = "分類"
 url = "/categories"
 weight = 3
 
+[[menu.nav]]
+parent = "文章"
+name = "歷史"
+url = "/archive"
+weight = 3
+
 [markup.goldmark.renderer]
 unsafe= true
 
