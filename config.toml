@@ -7,7 +7,7 @@ DisqusShortname = "achikuan"
 
 [params]
     subtitle = "一個廢物的資訊筆記"
-    avatar = "/KuanYuWei.jpg"
+    avatar = "/image/kyw.png"
     author = "AchiKuan"
     commentoSrc = "https://commento.example.com/js/commento.js"
     footerMessage = "我不知道路有多長，但是我知道我走了多少 Email: sereter19@gmail.com"
