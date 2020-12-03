@@ -2,7 +2,6 @@
 title = "關於網站和kyw"
 description = "這個網站的用途是什麼啊"
 date = "2020-12-03"
-aliases = ["about-us","about-hugo","contact"]
 author = "kyw"
 +++
 
