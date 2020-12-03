@@ -3,14 +3,14 @@ languageCode = "zh-tw"
 title = "kyw的隨筆"
 theme = "bodhi"
 # googleAnalytics = "UA-123-45"
-# DisqusShortname = "achikuan" 我移到disqus.html裡面了不然會壞掉
+DisqusShortname = "achikuan"
 
 [params]
     subtitle = "一個廢物的資訊筆記"
     avatar = "/KuanYuWei.jpg"
     author = "AchiKuan"
     commentoSrc = "https://commento.example.com/js/commento.js"
-    footerMessage = "我不知道路有多長，但是我知道我走了多少 Email: sereter19@gmail.com tmp"
+    footerMessage = "我不知道路有多長，但是我知道我走了多少 Email: sereter19@gmail.com"
     disableSearch = false
 
 [[menu.main]]
