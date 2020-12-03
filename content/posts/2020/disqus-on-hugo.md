@@ -18,7 +18,7 @@ categories: [架網站]
 
 ![disqus選擇頁面](/image/disquschoice.png)
 
-3.開啟你的網站中的single.html檔案（通常在theme/(theme name)/layout/_default裡面），這裡根據主題會有些不同，在我這裡原本是 
+3.開啟你的網站中的single.html檔案（通常在theme/(theme name)/layout/_default裡面），這裡根據主題會有些不同，只要找到關於disqus的內容即可，在我這裡原本是：
 
 ```
 {{ template "_internal/disqus.html"  . }}
